@@ -1,6 +1,6 @@
 function renderGuide(container, events) {
   container.innerHTML = `<header class="gallery-header">
-    <img src="https://felipecaroe.github.io/madux-poster-system/assets/wordmark.svg" alt="MadUX">
+    <img src="https://felipecaroe.github.io/madux-poster-system/assets/logo.svg" alt="MadUX">
     <div><h1>Poster wireframe</h1><p><a href="https://felipecaroe.github.io/madux-poster-system/">Event gallery</a> · <a href="https://felipecaroe.github.io/madux-poster-system/rules.html">Design rules</a></p></div>
     <span>2160 × 1080 px</span>
   </header>
@@ -15,17 +15,17 @@ function renderGuide(container, events) {
       <div class="guide-frame" aria-label="Wireframe showing the fixed left title block, the gutter, and the four right-hand rows">
         <div class="guide-title-box"><strong>Event title</strong><small>Syne ExtraBold · flush to three edges</small></div>
         <div class="guide-column">
-          <div class="guide-header-row"><strong>MadUX</strong><span>Event format</span></div>
+          <div class="guide-header-row"><strong>Full MadUX logo</strong></div>
+          <div class="guide-copy-box">Event hook</div>
           <div class="guide-art-box">
             <span><strong>Date + time</strong><small>Venue below</small></span>
             <span><strong>Illustration</strong><small>One motif per event</small></span>
           </div>
-          <div class="guide-copy-box">Event hook<br><small>Supporting line</small></div>
           <div class="guide-footer-row">Community footer <span>★★★★★★★</span></div>
         </div>
       </div>
       <div class="guide-key">
-        <p><strong>Fixed</strong> Layout, wordmark, type roles, community footer and seven stars.</p>
+        <p><strong>Fixed</strong> Layout, full logo, type roles, community footer and seven stars.</p>
         <p><strong>Changes</strong> Event title, logistics, copy, palette and illustration.</p>
       </div>
     </section>
