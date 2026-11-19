@@ -8,8 +8,8 @@ MadUX is an English-speaking design community in Madrid. These rules define a sh
 | --- | --- |
 | Formats | Eventbrite 2160 × 1080 px (2:1), Instagram Stories 1080 × 1920 px (9:16). Use the same type, colours, artwork and event details in both. |
 | Title | Use uppercase **Syne ExtraBold** with slightly tight tracking. Run the block to the top, bottom and left trim edges. Break long words at a readable point and keep short words intact. Adjust line lengths to fill the left field, up to 51.5% of the canvas. |
-| Right column | Start at 56.3% of the width and end at 95.4%. Stack the full logo, the event hook, the date-and-illustration band and the community footer. Use whitespace to separate rows. Give the logistics the left third of the band and the artwork the other two thirds, and align them along their bottom edge. |
-| Masthead | Use the **complete MadUX logo**, including the bear and lettering. Place it on its own at the left edge of the right column, in white or black for contrast. |
+| Right column | Start at 56.3% of the width and end at 95.4%. Stack the masthead, the date-and-illustration band and the community footer. Use whitespace to separate rows. Give the logistics the left third of the band and the artwork the other two thirds, and align them along their bottom edge. |
+| Masthead | Use the **complete MadUX logo**, including the bear and lettering. Set the event hook on the left of the masthead and the full logo on the right. Leave margins above and around the masthead and use white or black for contrast. |
 | Logistics | Set the day, month, year and Madrid local start time in Space Mono. Give the day the event accent and use Inter for the venue and optional short address. Keep the place name readable without the address. |
 | Supporting type | Use **Inter** for one concise event hook, and uppercase **Space Mono** for the footer. Keep the last phrase of the hook together. |
 | Footer | Use **English-speaking design community in Madrid** and the seven-star Madrid signature in their fixed positions. |

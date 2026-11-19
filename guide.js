@@ -12,11 +12,10 @@ function renderGuide(container, events) {
   <div class="guide-layout">
     <section>
       <h2>Shared layout</h2>
-      <div class="guide-frame" aria-label="Wireframe showing the fixed left title block, the gutter, and the four right-hand rows">
+      <div class="guide-frame" aria-label="Wireframe showing the fixed left title block, the gutter, and the three right-hand rows">
         <div class="guide-title-box"><strong>Event title</strong><small>Syne ExtraBold · flush to three edges</small></div>
         <div class="guide-column">
-          <div class="guide-header-row"><strong>Full MadUX logo</strong></div>
-          <div class="guide-copy-box">Event hook</div>
+          <div class="guide-header-row"><span>Event hook</span><strong>Full MadUX logo</strong></div>
           <div class="guide-art-box">
             <span><strong>Date + time</strong><small>Venue below</small></span>
             <span><strong>Illustration</strong><small>One motif per event</small></span>
@@ -34,7 +33,7 @@ function renderGuide(container, events) {
       <div class="guide-preview" aria-labelledby="guide-preview-heading">
         <img alt="">
         <div class="guide-overlay" hidden aria-hidden="true">
-          <div></div><div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
         </div>
       </div>
       <div class="guide-palette" aria-label="Event colours"></div>
